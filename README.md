@@ -3,12 +3,12 @@ iDoctor-Medical-System
 
 Medical Diagnostic System
 
-1.	ABSTRACT:
+ABSTRACT:
 In today’s world where technology has progressed with the lightning speed, there is a need to create an electronic health platform, delivering 360-degree health services and products. IDoctor is an example of such a platform. Its deployment in the cloud and processing using data mining algorithm will prove really useful for those who seek to keep their health in check at the comfort of their home. This medical support system will help any user in getting a detailed report of their current health status and keep track of all the medicinal problems that have been faced by them as well as their other family members and use this data to generate a report using data mining algorithms. Therefore this system will not only save time in today’s hectic world but provide all round access to the service. 
 Our project aims at improving the medical assistance to patients in remote areas or for patients having no doctor or in case of emergency. It provides medical supporting system which registers patients and doctors. In case of emergency registered patients or unregistered patients are provided with medical helpline services depending on the severity of the problem the patient suffering from. It also includes online help for common questions asked by costumer or patients about their health life .As the this project is one of its type in India we try to explore this opportunity to enhance the medical system which in future may prove helpful for people of India specially people living in remote areas.
 
 
-2.	LITERATURE SURVEY
+LITERATURE SURVEY
 We have gone through a variety of research papers, details of which are provided below:-
 
 •	Wireless Sensing Systems in Clinical Environments.
@@ -24,7 +24,7 @@ Due to the introduction of telecommunication technologies in telemedicine servic
 Patient monitoring provides flexible and powerful patient surveillance through wearable devices at anytime and anywhere. The increasing feasibility and convenience of mobile healthcare has already introduced several significant challenges for healthcare providers, policy makers, hospitals, and patients. A major challenge is to provide round-the-clock healthcare services to those patients who require it via wearable wireless medical devices. Furthermore, many patients have privacy concerns when it comes to releasing their personal information over open wireless channels. As a consequence, one of the most important and challenging issues that healthcare providers must deal with is how to secure the personal information of patients and to eliminate their privacy concerns. In this article we present several techniques that can be used to monitor patients effectively and enhance the functionality of telemedicine systems, and discuss how current secure strategies can impede the attacks faced by wireless communications in healthcare systems and improve the security of mobile healthcare.
 
 
-3.	PROBLEM DEFINITION WITH SCOPE AND OBJECTIVE
+PROBLEM DEFINITION WITH SCOPE AND OBJECTIVE
 
 Rural India contains over 68% of India's total population with half of it living below poverty line, struggling for better and easy access to health care and services. Our project aims at improving the medical assistance to patients in remote areas or for patients having no doctor or in case of emergency. It provides medical supporting system which registers patients and doctors. In case of emergency registered patients or unregistered patients are provided with medical helpline services depending on the severity of the problem the patient suffering from. It also includes online help for common questions asked by costumer or patients about their health life .As this project is one of its type in India we try to explore this opportunity to enhance the medical system which in future may prove helpful for people of India specially people living in remote areas.
 
@@ -38,6 +38,6 @@ Provides a platform where patients can register to the system through the websit
 The measured parameters will be used to generate a report for the patient who will be sent to the family doctor or any Available doctor in the vicinity. The doctor will then provide the diagnosis after studying the patient history and his current health condition. Depending upon the number and the location of the registered members, the service can be made available in different parts of the country. In an age where work is the top most priority for an individual, such a system would help in looking after the health of an individual and taking care of his well-being.
 
 
-4.	PROJECT PLAN
+PROJECT PLAN
 
 Initially the patient will register himself with the system. He would be required to enter his email address, password, name, Date of birth, address, state, city, pincode, contact no. and emergency no. After registering he would be able to login with his email address and password. He would be able to analyze his body temperature and blood pressure. After entering the respective entries he would be seeing a list of remedies that would help him to bring down or raise his temperature or blood pressure levels. Under medical facility around you the patient would have a provision to view the list of doctors, hospital and pharmacies in his address provided at a time of registration and also at other address by just providing the city name and pincode of the city and also the option he wants to view on the map. By this he would be able to see doctors, hospitals and pharmacies in 1500m radius of his locality.
