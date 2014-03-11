@@ -1,0 +1,21 @@
+@import url(css/bootstrap.css);
+@import url(css/bootstrap-responsive.css);
+
+.container #sidebar {
+    float: left;
+    height: 80%;
+    margin-right: 5%;
+    margin-top: 50px;
+    position: relative;
+    width: 20%;
+}
+#map_canvas {
+	width: 75%;
+	height:500px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.search {
+    margin-top: 20px;
+}

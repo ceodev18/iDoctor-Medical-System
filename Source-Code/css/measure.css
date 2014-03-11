@@ -1,0 +1,80 @@
+@import url(css/bootstrap.css);
+@import url(css/bootstrap-responsive.css);
+
+#measureform h2 {
+font-family: Arial, Tahoma, sans-serif;
+font-size: 30px;
+text-align: center;
+color: ##2b2b2b;
+padding: 8px 0;
+text-transform: uppercase;
+font-weight: 500;
+}
+
+#measureform p{
+font-family: Arial, Tahoma, sans-serif;
+color: #665f5f;
+font-size: 20px;	
+}
+
+.main-desc{
+	text-align: center;
+}
+#temperature{
+	display: block;
+}
+
+.tab-pane {
+    display: none !important;
+}
+
+.tab-pane.active {
+    display: block !important;
+}
+
+#tempresult h2{
+	font-family: Arial, Tahoma, sans-serif;
+	font-size: 22px;
+	text-align: center;
+	color: #96999E;
+	padding: 8px 0;
+	text-transform: uppercase;
+}
+
+#tempresult h3{
+	font-family: Arial, Tahoma, sans-serif;
+	font-size: 22px;
+	text-align: left;
+	color: #707479;
+
+}
+
+#tempresult h4{
+font-family: Arial, Tahoma, sans-serif;
+color: #665f5f;
+font-size: 20px;	
+}
+
+#bloodpressureresult h2{
+	font-family: Arial, Tahoma, sans-serif;
+	font-size: 22px;
+	text-align: center;
+	color: #96999E;
+	padding: 8px 0;
+	text-transform: uppercase;
+}
+
+#bloodpressureresult h3{
+	font-family: Arial, Tahoma, sans-serif;
+	font-size: 22px;
+	text-align: left;
+	color: #707479;
+
+}
+
+#bloodpressureresult h4{
+font-family: Arial, Tahoma, sans-serif;
+color: #665f5f;
+font-size: 20px;	
+}
+

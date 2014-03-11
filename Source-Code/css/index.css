@@ -1,0 +1,19 @@
+.span8{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.row h2 {
+font-family: Arial, Tahoma, sans-serif;
+font-size: 24px;
+color: ##2b2b2b;
+padding: 8px 0;
+text-transform: uppercase;
+font-weight: 500;
+}
+
+.row p{
+font-family: Arial, Tahoma, sans-serif;
+color: #665f5f;
+font-size: 18px;	
+}

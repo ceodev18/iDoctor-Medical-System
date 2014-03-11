@@ -1,0 +1,28 @@
+@import url(css/bootstrap.css);
+@import url(css/bootstrap-responsive.css);
+
+#contactform{
+ width: 80%;
+ margin: 0 auto;
+ max-width: 700px;
+}
+
+.main-desc{
+	text-align: center;
+}
+
+#contactform h2 {
+font-family: Arial, Tahoma, sans-serif;
+font-size: 30px;
+text-align: center;
+color: ##2b2b2b;
+padding: 8px 0;
+text-transform: uppercase;
+font-weight: 500;
+}
+
+#contactform p{
+font-family: Arial, Tahoma, sans-serif;
+color: #665f5f;
+font-size: 20px;	
+}
